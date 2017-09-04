@@ -4,4 +4,4 @@ dotnet: 2.0.0
 dist: trusty
 script:
  - dotnet restore
- - dotnet test
+ - dotnet test FacebookImageDownloader.Test/FacebookImageDownloader.Test.csproj
