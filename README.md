@@ -4,3 +4,7 @@
 
 Tooling for download all image in public facebook album.
 
+## How to use
+```
+dotnet run [album id] [access token]
+```
